@@ -1,0 +1,11 @@
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\bin\Debug\netstandard2.0\MovieDBApp.deps.json
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\bin\Debug\netstandard2.0\MovieDBApp.dll
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\bin\Debug\netstandard2.0\MovieDBApp.pdb
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.csprojAssemblyReference.cache
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.csproj.CoreCompileInputs.cache
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.AssemblyInfoInputs.cache
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.AssemblyInfo.cs
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.dll
+C:\dev\movieDBApp2\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.pdb

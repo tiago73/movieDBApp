@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {}
+    "C:\\dev\\movieDBApp2\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
+    "C:\\dev\\movieDBApp2\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
+        "projectUniqueName": "C:\\dev\\movieDBApp2\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
         "projectName": "MovieDBApp",
-        "projectPath": "C:\\Dev\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
+        "projectPath": "C:\\dev\\movieDBApp2\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
         "packagesPath": "C:\\Users\\lab3\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\obj\\",
+        "outputPath": "C:\\dev\\movieDBApp2\\MovieDBApp\\MovieDBApp\\MovieDBApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -49,13 +49,21 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
             "Prism.Unity.Forms": {
               "target": "Package",
               "version": "[7.2.0.1367, )"
             },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[3.6.0.344457, )"
+              "version": "[4.3.0.908675, )"
             }
           },
           "imports": [
