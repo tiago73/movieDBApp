@@ -4,6 +4,7 @@ using MovieDBApp.ViewModels;
 using MovieDBApp.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using MovieDBApp.Services;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace MovieDBApp
@@ -25,11 +26,14 @@ namespace MovieDBApp
 
             await NavigationService.NavigateAsync("NavigationPage/MainPage");
         }
-
+        
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();
+
+            containerRegistry.RegisterSingleton<IHttpRequest, FlurlHttpRequest>();
+            containerRegistry.RegisterSingleton<IMovieDBService, MovieDBService>();
         }
     }
 }
